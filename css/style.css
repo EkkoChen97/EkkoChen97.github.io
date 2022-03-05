@@ -11662,3 +11662,8 @@ figure.highlight .section {
     padding: 1.5rem 1rem;
   }
 }
+body {
+  background-image: url("/Users/ekkochen/Desktop/xianbo/blog/themes/icarus/source/bg.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
